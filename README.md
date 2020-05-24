@@ -30,10 +30,6 @@ _error('log message'); // Output red color log in browser console.
 ```
 
 
-#### Output
-![banner](https://)
-
-
 ## License
 
-MIT © [H.R. Hiran Peiris](hiranpeiris.sl@gmail.com)
+MIT © [H.R. Hiran Peiris](https://github.com/hiranpeiris)
