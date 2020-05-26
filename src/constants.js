@@ -1,5 +1,5 @@
 export const COLORS = {
-  SUCCESS: 'Green',
+  SUCCESS: 'LimeGreen',
   INFO: 'DodgerBlue',
   WARNING: 'Orange',
   ERROR: 'Red',

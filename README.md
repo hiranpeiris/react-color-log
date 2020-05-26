@@ -3,7 +3,7 @@ Color log helper functions for React, ReactNative Apps.
 
 ## Install
 ```sh
-yarn react-color-log
+yarn add react-color-log
 ```
 or
 ```sh
