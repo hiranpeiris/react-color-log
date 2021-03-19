@@ -1,6 +1,6 @@
 {
   "name": "react-color-log",
-  "version": "1.0.8",
+  "version": "1.0.10",
   "description": "Simple color log package for React and ReactNative Apps",
   "main": "dist/index.js",
   "scripts": {
