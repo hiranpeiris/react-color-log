@@ -1,4 +1,11 @@
-import { COLORS, FONT_SIZE, FONT_WEIGHT } from './constants';
+const COLORS = {
+  SUCCESS: 'LimeGreen',
+  INFO: 'DodgerBlue',
+  WARNING: 'Orange',
+  ERROR: 'Red',
+};
+const FONT_SIZE = '12px';
+const FONT_WEIGHT = 'normal';
 
 export const _success = (msg) => {
   console.log(`%c${msg}`, `color:${COLORS.SUCCESS};font-size: ${FONT_SIZE}; font-weight: ${FONT_WEIGHT}`);
