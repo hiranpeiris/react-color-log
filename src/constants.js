@@ -5,6 +5,6 @@ export const COLORS = {
   ERROR: 'Red',
 };
 
-export const FONT_SIZE = '13px';
+export const FONT_SIZE = '12px';
 
-export const FONT_WEIGHT = 'bold';
+export const FONT_WEIGHT = 'normal';
